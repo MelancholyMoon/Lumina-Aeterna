@@ -1,0 +1,53 @@
+END USER LICENSE AGREEMENT (EULA)
+Version: 1.1
+Effective Date: 2025-09-26
+
+This End User License Agreement (“EULA”) is a legal agreement between you (“Licensee”) and Coetus Interactive (“Licensor”) governing your access to and use of the source code, binaries, and related assets for Lumina Aeterna. By downloading, compiling, modifying, or running any part of the Lumina Aeterna source code, you agree to be bound by this EULA.
+
+1.  DEFINITIONS
+    •  “Source Code” means all human-readable code files, scripts, and development assets made available in the GitHub repository.
+    •  “Binaries” means compiled executables or installer packages of the Game.
+    •  “Verified Purchase” means confirmation that Licensee has legally purchased the Game.
+
+2.  LICENSE GRANT
+    Subject to the terms of this EULA, Licensor hereby grants Licensee a non-exclusive, non-transferable, perpetual, source-available license to:
+    a)  Access, read, modify, and compile the Source Code;
+    b)  Create derivative works of the Source Code;
+    c)  Run and debug such compiled Works,
+    provided that Licensee holds a Verified Purchase of the Game.
+
+3.  DISTRIBUTION
+    a)  Licensee may distribute the Source Code, in whole or in part, provided that the distribution is not for commercial gain or sale. The sale, rental, or any form of paid licensing of the Source Code or Binaries is strictly prohibited.
+    b)  Licensee may not distribute or publish Binaries or compiled versions of the Game without prior written consent from Licensor, unless Licensor offers an official path for community-supported builds.
+    c)  Licensee may freely use code snippets or portions of the Source Code in their own personal or derivative projects, in accordance with the terms of CC-BY-SA-4.0 license where applicable. However, compiling or modifying the full repository to produce the Game or substantial parts thereof is only permitted for users who hold a Verified Purchase.
+
+4.  RESTRICTIONS
+    Licensee shall not:
+    a)  Sell, rent, lease, sublicense, or otherwise transfer the Source Code or Binaries for commercial purposes;
+    b)  Remove or alter any copyright, trademark, or license notices in the Source Code or Binaries;
+    c)  Use the Game or its Source Code in any manner that violates applicable law.
+
+5.  INTELLECTUAL PROPERTY
+    a)  All rights, title, and interest in and to the Game, including Source Code, Binaries, trademarks, and artwork, remain with Licensor.
+    b)  This EULA does not grant any ownership rights in the Game.
+
+6.  UPDATES AND SUPPORT
+    Licensor may, at its sole discretion, provide updates, patches, or new releases. Licensee must comply with the licensing terms of any such updates. Changes to this EULA are not retroactive and apply only to updates or new releases provided after the effective date of the revised EULA.
+
+7.  TERMINATION
+    This EULA is perpetual and cannot be unilaterally revoked by Licensor except in cases of breach of its terms by Licensee. Upon termination for breach, Licensee must cease all use of Source Code and destroy all copies.
+
+8.  WARRANTY DISCLAIMER
+    THE GAME AND SOURCE CODE ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. Nothing in this EULA shall exclude or limit liability where such exclusion or limitation is unlawful.
+
+9.  LIMITATION OF LIABILITY
+    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES ARISING OUT OF OR IN CONNECTION WITH THIS EULA OR THE USE OF THE GAME OR SOURCE CODE. THIS LIMITATION DOES NOT APPLY TO DAMAGES RESULTING FROM WILLFUL MISCONDUCT OR GROSS NEGLIGENCE.
+
+10.  GOVERNING LAW
+    This EULA shall be governed by and construed in accordance with the laws of Italy, without regard to its conflict of laws principles. Any disputes arising out of or related to this EULA shall be subject to the exclusive jurisdiction of the courts of Italy.
+
+11.  ENTIRE AGREEMENT
+    This EULA constitutes the entire agreement between Licensee and Licensor regarding the Game and supersedes all prior or contemporaneous understandings.
+
+12.  PUBLIC AVAILABILITY
+    The Source Code is published and freely viewable on GitHub. Anyone may inspect, read, or reference the code for their own projects, subject to the terms above.
