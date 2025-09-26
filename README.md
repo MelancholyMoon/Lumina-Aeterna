@@ -46,7 +46,7 @@ Copyright © 2023 Project Lumina - Coetus Interactive
 Copyright © 2023 Lumina Aeterna - Coetus Interactive
 
 [![EULA](https://img.shields.io/badge/license-EULA-blue)](./EULA)
-[![License: CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+[![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 
 - The **source code** is released under a custom **End User License Agreement (EULA)**. See [EULA](./EULA) for details.
 - All **assets**, **lore**, and the **game universe** are released under **Creative Commons Attribution-ShareAlike 4.0 International**. See [LICENSE-CC-BY-SA-4.0](LICENSE-CONTENT).
