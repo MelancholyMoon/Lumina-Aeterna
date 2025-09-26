@@ -45,7 +45,10 @@ Copyright © 2023 Project Lumina - Coetus Interactive
 
 Copyright © 2023 Lumina Aeterna - Coetus Interactive
 
-This project is licensed under the **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License**. You are free to share and adapt the materials, as long as you give appropriate credit and distribute your contributions under the same license. If you reuse or modify material, include an attribution like: "Seals of Lumina and Project Lumina by Melancholy and Coetus Interactive, CC BY-SA 4.0" and note any changes you made. See the LICENSE file or visit https://creativecommons.org/licenses/by-sa/4.0/ for details.
+[![EULA](https://img.shields.io/badge/license-EULA-blue)](./EULA)
+
+- The **source code** is released under a custom **End User License Agreement (EULA)**. See [EULA](./EULA) for details.
+- All **assets**, **lore**, and the **game universe** are released under **Creative Commons Attribution-ShareAlike 4.0 International**. See [LICENSE-CC-BY-SA-4.0](LICENSE-CONTENT).
 
 # Contributors
 
