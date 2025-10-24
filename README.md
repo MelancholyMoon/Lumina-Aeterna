@@ -28,7 +28,9 @@ Thank you for helping the project! If you want to directly contribute to this pr
 2. Create a branch with a clear name, for example `feature/your-feature`.
 3. Make changes and open a Pull Request (PR) to `main`.
 4. Use small, clear commits and explain your changes in the PR.
-5. ...
+5. For every change explain why and how it affects the game.
+6. If your changes need translations, please indicate that.
+7. Keep language clear, consistent, and easy to understand.
 
 To add your name to the contributors list:
 - Edit `CONTRIBUTORS.md` and add a line with your name and role.
